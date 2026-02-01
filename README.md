@@ -10,7 +10,7 @@ across multiple tenants, focusing on governance, security, and automation.
 - Compliance & retention
 - PowerShell automation
 
-##Tenants
+# Tenants
 - Tenant A: Core M365 fundamentals
 - Tenant B: Endpoint & identity management
 - Tenant C: Security & automation
